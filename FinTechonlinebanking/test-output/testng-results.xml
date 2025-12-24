@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="23" passed="19" failed="4" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-24T20:28:26 IST" name="Suite" finished-at="2025-12-24T20:34:18 IST" duration-ms="352680">
+    <groups>
+    </groups>
+    <test started-at="2025-12-24T20:28:26 IST" name="Test" finished-at="2025-12-24T20:34:18 IST" duration-ms="352680">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="initiateExtentReport()[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:28:26 IST" name="initiateExtentReport" finished-at="2025-12-24T20:28:26 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateExtentReport -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:28:26 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:28:31 IST" duration-ms="5547" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.LoginTest.validcredit() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="validcredit()[pri:1, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:28:31 IST" name="validcredit" finished-at="2025-12-24T20:28:52 IST" duration-ms="20467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validcredit -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:28:52 IST" name="browserclose" finished-at="2025-12-24T20:28:52 IST" duration-ms="357" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTest.validcredit() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:28:52 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:28:55 IST" duration-ms="3090" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.LoginTest.incorrecrpassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="incorrecrpassword()[pri:2, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:28:55 IST" name="incorrecrpassword" finished-at="2025-12-24T20:28:56 IST" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrecrpassword -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:28:56 IST" name="browserclose" finished-at="2025-12-24T20:28:57 IST" duration-ms="290" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTest.incorrecrpassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:28:57 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:29:00 IST" duration-ms="3167" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.LoginTest.unregistereduser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="unregistereduser()[pri:3, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:00 IST" name="unregistereduser" finished-at="2025-12-24T20:29:02 IST" duration-ms="1852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unregistereduser -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:02 IST" name="browserclose" finished-at="2025-12-24T20:29:02 IST" duration-ms="315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTest.unregistereduser()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:02 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:29:05 IST" duration-ms="3118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.LoginTest.emptyfield()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="emptyfield()[pri:4, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:05 IST" name="emptyfield" finished-at="2025-12-24T20:29:06 IST" duration-ms="1052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyfield -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:06 IST" name="browserclose" finished-at="2025-12-24T20:29:07 IST" duration-ms="291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTest.emptyfield()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:07 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:29:10 IST" duration-ms="3123" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.LoginTest.invalidemailformat()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="invalidemailformat()[pri:5, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:10 IST" name="invalidemailformat" finished-at="2025-12-24T20:29:11 IST" duration-ms="1768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidemailformat -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:11 IST" name="browserclose" finished-at="2025-12-24T20:29:12 IST" duration-ms="321" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTest.invalidemailformat()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:12 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:29:15 IST" duration-ms="3124" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.LoginTest.maskinput()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="maskinput()[pri:6, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:15 IST" name="maskinput" finished-at="2025-12-24T20:29:17 IST" duration-ms="1897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maskinput -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:29:17 IST" name="browserclose" finished-at="2025-12-24T20:29:17 IST" duration-ms="318" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoginTest.maskinput()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:tests.LoginTest@3688eb5b]" started-at="2025-12-24T20:34:18 IST" name="closeReport" finished-at="2025-12-24T20:34:19 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.LoanRequestTest">
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.LoanRequestTest@71e9ebae]" started-at="2025-12-24T20:32:36 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:32:40 IST" duration-ms="3653" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.LoanRequestTest.validdetails() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="validdetails()[pri:1, instance:tests.LoanRequestTest@71e9ebae]" started-at="2025-12-24T20:32:40 IST" name="validdetails" finished-at="2025-12-24T20:33:02 IST" duration-ms="22345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validdetails -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.LoanRequestTest@71e9ebae]" started-at="2025-12-24T20:33:02 IST" name="browserclose" finished-at="2025-12-24T20:33:02 IST" duration-ms="392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoanRequestTest.validdetails() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.LoanRequestTest@71e9ebae]" started-at="2025-12-24T20:33:02 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:33:06 IST" duration-ms="3435" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.LoanRequestTest.missinginformation() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="missinginformation()[pri:2, instance:tests.LoanRequestTest@71e9ebae]" started-at="2025-12-24T20:33:06 IST" name="missinginformation" finished-at="2025-12-24T20:33:13 IST" duration-ms="6888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- missinginformation -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.LoanRequestTest@71e9ebae]" started-at="2025-12-24T20:33:13 IST" name="browserclose" finished-at="2025-12-24T20:33:13 IST" duration-ms="294" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoanRequestTest.missinginformation() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.LoanRequestTest@71e9ebae]" started-at="2025-12-24T20:33:13 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:33:16 IST" duration-ms="2982" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.LoanRequestTest.exceedinglimit() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="exceedinglimit()[pri:3, instance:tests.LoanRequestTest@71e9ebae]" started-at="2025-12-24T20:33:16 IST" name="exceedinglimit" finished-at="2025-12-24T20:33:40 IST" duration-ms="23630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exceedinglimit -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.LoanRequestTest@71e9ebae]" started-at="2025-12-24T20:33:40 IST" name="browserclose" finished-at="2025-12-24T20:33:40 IST" duration-ms="352" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.LoanRequestTest.exceedinglimit() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- tests.LoanRequestTest -->
+      <class name="tests.AccountOverviewTest">
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.AccountOverviewTest@3f57bcad]" started-at="2025-12-24T20:29:17 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:29:20 IST" duration-ms="2972" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.AccountOverviewTest.clickaccountoverview() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="clickaccountoverview()[pri:1, instance:tests.AccountOverviewTest@3f57bcad]" started-at="2025-12-24T20:29:20 IST" name="clickaccountoverview" finished-at="2025-12-24T20:29:41 IST" duration-ms="21158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickaccountoverview -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.AccountOverviewTest@3f57bcad]" started-at="2025-12-24T20:29:41 IST" name="browserclose" finished-at="2025-12-24T20:29:42 IST" duration-ms="297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.AccountOverviewTest.clickaccountoverview() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.AccountOverviewTest@3f57bcad]" started-at="2025-12-24T20:29:42 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:29:45 IST" duration-ms="3196" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.AccountOverviewTest.Checkingaccount() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="Checkingaccount()[pri:2, instance:tests.AccountOverviewTest@3f57bcad]" started-at="2025-12-24T20:29:45 IST" name="Checkingaccount" finished-at="2025-12-24T20:29:51 IST" duration-ms="6030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkingaccount -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.AccountOverviewTest@3f57bcad]" started-at="2025-12-24T20:29:51 IST" name="browserclose" finished-at="2025-12-24T20:29:51 IST" duration-ms="442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.AccountOverviewTest.Checkingaccount() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- tests.AccountOverviewTest -->
+      <class name="tests.ContactUsTest">
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:02 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:32:06 IST" duration-ms="3510" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.ContactUsTest.opensupportform()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="opensupportform()[pri:1, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:06 IST" name="opensupportform" finished-at="2025-12-24T20:32:08 IST" duration-ms="2511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opensupportform -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:08 IST" name="browserclose" finished-at="2025-12-24T20:32:09 IST" duration-ms="267" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.ContactUsTest.opensupportform()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:09 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:32:11 IST" duration-ms="2843" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.ContactUsTest.validinformation() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="validinformation()[pri:2, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:11 IST" name="validinformation" finished-at="2025-12-24T20:32:17 IST" duration-ms="5803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validinformation -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:17 IST" name="browserclose" finished-at="2025-12-24T20:32:17 IST" duration-ms="287" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.ContactUsTest.validinformation() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:17 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:32:21 IST" duration-ms="3580" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.ContactUsTest.emptyfield() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="emptyfield()[pri:3, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:21 IST" name="emptyfield" finished-at="2025-12-24T20:32:26 IST" duration-ms="4881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyfield -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:26 IST" name="browserclose" finished-at="2025-12-24T20:32:26 IST" duration-ms="321" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.ContactUsTest.emptyfield() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:26 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:32:30 IST" duration-ms="3384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.ContactUsTest.successmessage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="successmessage()[pri:4, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:30 IST" name="successmessage" finished-at="2025-12-24T20:32:36 IST" duration-ms="5971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successmessage -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.ContactUsTest@51549490]" started-at="2025-12-24T20:32:36 IST" name="browserclose" finished-at="2025-12-24T20:32:36 IST" duration-ms="342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.ContactUsTest.successmessage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- tests.ContactUsTest -->
+      <class name="tests.FundsTransferTest">
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:29:51 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:29:54 IST" duration-ms="3254" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.FundsTransferTest.validinternalaccount() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="validinternalaccount()[pri:1, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:29:54 IST" name="validinternalaccount" finished-at="2025-12-24T20:30:02 IST" duration-ms="7727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validinternalaccount -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:30:02 IST" name="browserclose" finished-at="2025-12-24T20:30:03 IST" duration-ms="349" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FundsTransferTest.validinternalaccount() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:30:03 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:30:06 IST" duration-ms="3519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.FundsTransferTest.emptyfield() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="emptyfield()[pri:2, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:30:06 IST" name="emptyfield" finished-at="2025-12-24T20:30:13 IST" duration-ms="6897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyfield -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:30:13 IST" name="browserclose" finished-at="2025-12-24T20:30:13 IST" duration-ms="373" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FundsTransferTest.emptyfield() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:30:13 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:30:17 IST" duration-ms="3330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.FundsTransferTest.sameaccount() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="sameaccount()[pri:3, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:30:17 IST" name="sameaccount" finished-at="2025-12-24T20:30:50 IST" duration-ms="33121" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate option with text: 13899
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate option with text: 13899
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:397)
+at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:125)
+at pages.FundsTransferfunction.selectfromacccount(FundsTransferfunction.java:124)
+at tests.FundsTransferTest.sameaccount(FundsTransferTest.java:150)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sameaccount -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:30:50 IST" name="browserclose" finished-at="2025-12-24T20:30:50 IST" duration-ms="387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FundsTransferTest.sameaccount() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:30:50 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:30:53 IST" duration-ms="3015" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.FundsTransferTest.decimalamount() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="decimalamount()[pri:4, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:30:53 IST" name="decimalamount" finished-at="2025-12-24T20:31:26 IST" duration-ms="32602" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate option with text: 13899
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate option with text: 13899
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:397)
+at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:125)
+at pages.FundsTransferfunction.selectfromacccount(FundsTransferfunction.java:124)
+at tests.FundsTransferTest.decimalamount(FundsTransferTest.java:203)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- decimalamount -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:31:26 IST" name="browserclose" finished-at="2025-12-24T20:31:26 IST" duration-ms="417" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FundsTransferTest.decimalamount() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:31:26 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:31:28 IST" duration-ms="1561" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.FundsTransferTest.CompletemsgAndBalance() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="CompletemsgAndBalance()[pri:5, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:31:28 IST" name="CompletemsgAndBalance" finished-at="2025-12-24T20:32:02 IST" duration-ms="34108" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Cannot locate option with text: 13899
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: driver.version: unknown]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Cannot locate option with text: 13899
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: driver.version: unknown
+at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:397)
+at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:125)
+at pages.FundsTransferfunction.selectfromacccount(FundsTransferfunction.java:124)
+at tests.FundsTransferTest.CompletemsgAndBalance(FundsTransferTest.java:256)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompletemsgAndBalance -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.FundsTransferTest@1e8b7643]" started-at="2025-12-24T20:32:02 IST" name="browserclose" finished-at="2025-12-24T20:32:02 IST" duration-ms="387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.FundsTransferTest.CompletemsgAndBalance() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- tests.FundsTransferTest -->
+      <class name="tests.navigationandUItest">
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.navigationandUItest@73d983ea]" started-at="2025-12-24T20:33:40 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:33:44 IST" duration-ms="3675" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.navigationandUItest.Openpages()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="Openpages()[pri:1, instance:tests.navigationandUItest@73d983ea]" started-at="2025-12-24T20:33:44 IST" name="Openpages" finished-at="2025-12-24T20:33:48 IST" duration-ms="4470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openpages -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.navigationandUItest@73d983ea]" started-at="2025-12-24T20:33:48 IST" name="browserclose" finished-at="2025-12-24T20:33:48 IST" duration-ms="282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.navigationandUItest.Openpages()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.navigationandUItest@73d983ea]" started-at="2025-12-24T20:33:48 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:33:51 IST" duration-ms="3034" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.navigationandUItest.Openhomepage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="Openhomepage()[pri:2, instance:tests.navigationandUItest@73d983ea]" started-at="2025-12-24T20:33:51 IST" name="Openhomepage" finished-at="2025-12-24T20:33:52 IST" duration-ms="1063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openhomepage -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.navigationandUItest@73d983ea]" started-at="2025-12-24T20:33:52 IST" name="browserclose" finished-at="2025-12-24T20:33:53 IST" duration-ms="268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.navigationandUItest.Openhomepage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="Setupopenbrowser(java.lang.String,java.lang.reflect.Method)[pri:0, instance:tests.navigationandUItest@73d983ea]" started-at="2025-12-24T20:33:53 IST" name="Setupopenbrowser" finished-at="2025-12-24T20:33:56 IST" duration-ms="3033" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void tests.navigationandUItest.Clickablityofbutton() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setupopenbrowser -->
+        <test-method signature="Clickablityofbutton()[pri:3, instance:tests.navigationandUItest@73d983ea]" started-at="2025-12-24T20:33:56 IST" name="Clickablityofbutton" finished-at="2025-12-24T20:34:18 IST" duration-ms="22041" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='Open New Account']"}
+  (Session info: chrome=143.0.7499.41)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f945b4f32809c291748a96b4c30f5067, findElement {using=xpath, value=//input[@value='Open New Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.41, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\Bhoomika\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63863}, goog:processID: 26052, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63863/devtoo..., se:cdpVersion: 143.0.7499.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f945b4f32809c291748a96b4c30f5067]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='Open New Account']"}
+  (Session info: chrome=143.0.7499.41)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.36.0', revision: '6d115cfd87'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f945b4f32809c291748a96b4c30f5067, findElement {using=xpath, value=//input[@value='Open New Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.41, chrome: {chromedriverVersion: 143.0.7499.169 (164b20aab62..., userDataDir: C:\Users\Bhoomika\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63863}, goog:processID: 26052, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63863/devtoo..., se:cdpVersion: 143.0.7499.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f945b4f32809c291748a96b4c30f5067
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:380)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+at pages.navigationUIfunction.clknewaccbtn(navigationUIfunction.java:128)
+at tests.navigationandUItest.Clickablityofbutton(navigationandUItest.java:95)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clickablityofbutton -->
+        <test-method is-config="true" signature="browserclose(java.lang.reflect.Method)[pri:0, instance:tests.navigationandUItest@73d983ea]" started-at="2025-12-24T20:34:18 IST" name="browserclose" finished-at="2025-12-24T20:34:18 IST" duration-ms="357" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void tests.navigationandUItest.Clickablityofbutton() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- tests.navigationandUItest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,61 @@
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-25 16:18:18] INFO  Utils - [TestNG] Running:
+  C:\Users\Bhoomika\AppData\Local\Temp\testng-eclipse-557890725\testng-customsuite.xml
+
+[2025-10-25 16:18:24] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[2025-10-25 16:18:24] INFO  Log - User entered username successfully
+[2025-10-25 16:18:25] INFO  Log - User entered username successfully
+[2025-10-25 16:18:25] INFO  Log - User entered username successfully
+[2025-10-25 16:18:26] INFO  Log - User entered username successfully
+[2025-10-25 16:18:26] INFO  Log - User entered username successfully
+[2025-10-25 16:18:26] INFO  Log - User entered username successfully
+[2025-10-25 16:18:26] INFO  Log - Starting login test with invalid credentials
+[2025-10-25 16:18:26] INFO  Log - User entered username successfully
+[2025-10-25 16:18:27] INFO  Log - User entered username successfully
+[2025-10-25 16:18:27] INFO  Log - User entered username successfully
+[2025-10-25 16:18:27] INFO  Log - Starting login test with Unregistered employee
+[2025-10-25 16:18:27] INFO  Log - User entered username successfully
+[2025-10-25 16:18:27] INFO  Log - User entered username successfully
+[2025-10-25 16:18:28] INFO  Log - User entered username successfully
+[2025-10-25 16:18:28] INFO  Log - User entered username successfully
+[2025-10-25 16:18:29] INFO  Log - User entered username successfully
+[2025-10-25 16:18:29] INFO  Log - Starting login test with invalid email format
+[2025-10-25 16:18:29] INFO  Log - User entered username successfully
+[2025-10-25 16:18:29] INFO  Log - User entered username successfully
+[2025-10-25 16:18:30] INFO  Log - User entered username successfully
+[2025-10-25 16:18:30] INFO  Log - Starting login test with mask input
+[2025-10-25 16:18:31] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6daf2337: 140 ms
+[2025-10-25 16:18:31] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@19569ebd: 38 ms
+[2025-10-25 16:18:31] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2b8bd14b: 22 ms
+[2025-10-25 16:18:31] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@26f96b85: 14 ms
+[2025-10-25 16:18:31] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@522ba524: 16 ms
+[2025-10-25 16:18:31] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@29c5ee1d: 0 ms
